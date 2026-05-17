@@ -4,7 +4,7 @@ A Pinta add-in that adds **Add-ins → Export as PNG...**. Exports a flattened P
 
 ## Prerequisites
 
-- [Pinta](https://www.pinta-project.com/) 3.1 or later
+- [Pinta](https://www.pinta-project.com/) 3.x
 - [.NET 10 SDK](https://dotnet.microsoft.com/download)
 
 ## Build
